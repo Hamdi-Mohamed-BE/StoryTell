@@ -8,7 +8,9 @@ StoryCards takes any story — from books, movies, anime, or TV shows — and br
 
 ## App Preview
 
-> **Coming soon** — a video walkthrough will be added here.
+<video src="video/storytell.mp4" controls width="300"></video>
+
+> If the video doesn't render, [click here to watch](video/storytell.mp4).
 
 ---
 
