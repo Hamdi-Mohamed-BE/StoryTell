@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "StoryCards",
+    "slug": "storycards",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#09090b"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.storycards.mobile"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#09090b"
+      },
+      "package": "com.storycards.mobile"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
